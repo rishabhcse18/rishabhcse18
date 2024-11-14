@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Rishabh Jain (@rishabhcse18)
 
 ## 👀 About Me
-- 🎓 **MTech AI and Data Science Student** at **Motilal Nehru National Institute of Technology (MNNIT), Allahabad**.
+- 🎓 **AI and Data Science Student** at **Motilal Nehru National Institute of Technology (MNNIT), Allahabad**.
 - 💻 Passionate about **Artificial Intelligence**, **Data Science**, and **Web Development**.
 - 🚀 I specialize in **Deep Learning**, **Computer Vision**, and building AI-powered solutions.
 
